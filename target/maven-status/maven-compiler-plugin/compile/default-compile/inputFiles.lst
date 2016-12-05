@@ -1,0 +1,14 @@
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/api/hue/HueApiResponse.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/upnp/UpnpListener.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/upnp/UpnpSettingsResource.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/api/hue/DeviceState.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/api/hue/DeviceResponse.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/SpringbootEntry.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/api/Device.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/ConfigChecker.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/TomcatConnectorBean.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/devicemanagmeent/DeviceResource.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/dao/DeviceRepository.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/hue/HueMulator.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/dao/DeviceDescriptor.java
+/Users/lorenzo/Documents/GitHub/amazon-echo-ha-bridge/src/main/java/com/armzilla/ha/filters/SpringBootCorsFilter.java

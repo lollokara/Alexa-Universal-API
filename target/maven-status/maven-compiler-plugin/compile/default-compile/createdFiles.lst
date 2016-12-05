@@ -1,0 +1,14 @@
+com/armzilla/ha/dao/DeviceDescriptor.class
+com/armzilla/ha/api/Device.class
+com/armzilla/ha/devicemanagmeent/DeviceResource.class
+com/armzilla/ha/SpringbootEntry.class
+com/armzilla/ha/api/hue/HueApiResponse.class
+com/armzilla/ha/upnp/UpnpListener.class
+com/armzilla/ha/upnp/UpnpSettingsResource.class
+com/armzilla/ha/filters/SpringBootCorsFilter.class
+com/armzilla/ha/api/hue/DeviceState.class
+com/armzilla/ha/hue/HueMulator.class
+com/armzilla/ha/dao/DeviceRepository.class
+com/armzilla/ha/api/hue/DeviceResponse.class
+com/armzilla/ha/ConfigChecker.class
+com/armzilla/ha/TomcatConnectorBean.class
