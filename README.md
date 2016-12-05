@@ -8,7 +8,7 @@ The Java Server emulates a Hue bridge, it then sends the list of devices to Alex
 
 ## Release notes:
 
-Java Server  v0.4.0
+### Java Server  v0.4.0
 
 Change log:
 
@@ -19,13 +19,13 @@ Change log:
 other notes:
 Ive seen some folks able to run this but not able to discover devices. I would recommend checking for devices with duplicate names as i have seen this to cause the echo to reject all devices. The lazy way would be to delete the /data directory and start over.
 
-Python Server  v0.2.1a
+### Python Server  v0.2.1a
 
 Change log:
 
 * Using Flask to handle various request with a single server.
 
-Node Server  v0.1a
+### Node Server  v0.1a
 
 * Still developing the detection it seems to work whenever he whats to.
 
